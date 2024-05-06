@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\bin\Debug\net8.0\IMS.infrastructure.deps.json
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\bin\Debug\net8.0\IMS.infrastructure.dll
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\bin\Debug\net8.0\IMS.infrastructure.pdb
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\bin\Debug\net8.0\IMS.Models.dll
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\bin\Debug\net8.0\IMS.Models.pdb
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infr.98D11278.Up2Date
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastructure.dll
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\refint\IMS.infrastructure.dll
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastructure.pdb
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\ref\IMS.infrastructure.dll

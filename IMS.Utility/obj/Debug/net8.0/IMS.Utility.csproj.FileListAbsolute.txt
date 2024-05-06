@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\bin\Debug\net8.0\IMS.Utility.deps.json
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\bin\Debug\net8.0\IMS.Utility.dll
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\bin\Debug\net8.0\IMS.Utility.pdb
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.dll
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\obj\Debug\net8.0\refint\IMS.Utility.dll
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.pdb
+C:\Users\ASUS\source\repos\IMS\IMS.Utility\obj\Debug\net8.0\ref\IMS.Utility.dll

@@ -4,6 +4,9 @@ using Microsoft.AspNetCore.Identity;
 using IMS.web.Models;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using IMS.Infrastructure;
+using IMS.infrastructure.IRepository;
+using IMS.infrastructure.Repository;
+using IMS.infrastructure.Repository.CRUD;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,7 +27,22 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddDefaultTokenPro
     .AddEntityFrameworkStores<ApplicationDbContext>();
 
 builder.Services.AddSingleton<IEmailSender,EmailSender>();
+builder.Services.AddTransient(typeof(ICrudService<>), typeof(CrudService<>));
+builder.Services.AddTransient<IRawSqlRepository, RawSqlRepository>() ;
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = $"/Identity/Account/Login";
+    options.LogoutPath = $"/Identity/Account/Logout";
+    options.AccessDeniedPath = "/Identity/Account/AccessDenied";
+});
 var app = builder.Build();
+// role lai seeding gareko
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    await SeedingData.InitializeAsync(services);
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -34,7 +52,7 @@ if (!app.Environment.IsDevelopment())
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 app.MapRazorPages();
 

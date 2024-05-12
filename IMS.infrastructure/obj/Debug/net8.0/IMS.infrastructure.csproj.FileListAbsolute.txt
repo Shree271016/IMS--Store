@@ -13,3 +13,6 @@ C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastru
 C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\refint\IMS.infrastructure.dll
 C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastructure.pdb
 C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\ref\IMS.infrastructure.dll
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastructure.sourcelink.json
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\bin\Debug\net8.0\IMS.infrastructure.runtimeconfig.json
+C:\Users\ASUS\source\repos\IMS\IMS.infrastructure\obj\Debug\net8.0\IMS.infrastructure.genruntimeconfig.cache

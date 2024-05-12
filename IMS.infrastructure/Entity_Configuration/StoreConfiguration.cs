@@ -21,10 +21,8 @@ namespace IMS.infrastructure.Entity_Configuration
             builder.Property(e => e.RegistratinNo).IsUnicode(true);
             builder.Property(e => e.PanNo).IsUnicode(true);
             builder.Property(e => e.IsActive);
-            //.HasDefaultValue(true);
             builder.Property(e => e.CreatedBy).IsUnicode(true);
             builder.Property(e => e.CreatedDate);
-            //.HasDefaultValueSql("GETDATE()");
         }
     }
 }

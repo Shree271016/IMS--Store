@@ -290,3 +290,4 @@ C:\Users\ASUS\source\repos\IMS\IMS.web\obj\Debug\net8.0\refint\IMS.web.dll
 C:\Users\ASUS\source\repos\IMS\IMS.web\obj\Debug\net8.0\IMS.web.pdb
 C:\Users\ASUS\source\repos\IMS\IMS.web\obj\Debug\net8.0\IMS.web.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\IMS\IMS.web\obj\Debug\net8.0\ref\IMS.web.dll
+C:\Users\ASUS\source\repos\IMS\IMS.web\obj\Debug\net8.0\IMS.web.sourcelink.json

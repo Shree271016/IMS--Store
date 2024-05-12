@@ -53,7 +53,7 @@
               "target": "Package",
               "version": "[8.0.4, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.4, )"
             }
